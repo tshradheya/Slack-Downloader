@@ -27,7 +27,7 @@ Pre-requisite: Python is installed on your local environment
    ```
 
    where `/directory_path/` identifies the path of the directory containing the script, while `0 *` specifies the program has to be called every hour.
-   You can use this to set your own [https://crontab.guru/](cron job timing)
+   You can use this to set your own [Cron job timing](https://crontab.guru)
    
 1. Run using the command `python slack-downloader.py`
 1. All data will be stored in this format
